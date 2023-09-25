@@ -6,6 +6,13 @@
 
 > [Foocmend will find your customized restaurants](https://foocmend.com/)
 
+## 📋 프로젝트 소개
+> ### 개요
+> > 프로젝트명 : foocmend  
+> > 개발 기간 : 2023-07-24 ~ 2023-09-20  
+> > 개발 인원 : 5명  
+> > 핵심 기능 : 알고리즘을 이용한 사용자 맞춤 맛집 추천 웹사이트
+
 ## :clipboard: 개발환경
 > <img src="https://img.shields.io/badge/IntelliJIDEA-9558B2.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 > <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
